@@ -1,0 +1,11 @@
+{
+  "name": "gsi_exercises_of_45-assignment",
+  "version": "1.0.0",
+  "description": "GSI_Exercises_of_45-assignment",
+  "main": "2.persional Message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
